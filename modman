@@ -1,0 +1,6 @@
+src/app/code/core/Mage/Rating/                                     app/code/core/Mage/Rating/
+src/app/design/adminhtml/default/default/template/rating/          app/design/adminhtml/default/default/template/rating/
+src/app/design/frontend/base/default/template/rating/              app/design/frontend/base/default/template/rating/
+src/app/design/frontend/rwd/default/template/rating/               app/design/frontend/rwd/default/template/rating/
+src/app/etc/modules/Mage_Rating.xml                                app/etc/modules/Mage_Rating.xml
+src/app/locale/en_US/Mage_Rating.csv                               app/locale/en_US/Mage_Rating.csv

@@ -1,0 +1,11 @@
+{
+    "name": "openmage-strict/module-rating",
+    "description": "Mage_Rating",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-core": "*",
+        "openmage-strict/module-review": "*"
+    }
+}
